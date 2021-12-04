@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Unity, C# and partialy Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can message me here, or follow me on:
-  Codin game: https://www.codingame.com/profile/c3512bfb9d2f097fe43e7ffac01f82163995543
-  Codewars https://www.codewars.com/users/mrffz
+-   Codin game: https://www.codingame.com/profile/c3512bfb9d2f097fe43e7ffac01f82163995543
+-   Codewars https://www.codewars.com/users/mrffz
   
 
 
